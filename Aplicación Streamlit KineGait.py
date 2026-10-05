@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import cv2
 import mediapipe as mp
@@ -389,4 +388,3 @@ opencv-python-headless>=4.8.0.76
 numpy>=1.24.0,<2.0.0
 pandas>=2.0.0
 plotly>=5.18.0
-```
