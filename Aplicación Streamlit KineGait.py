@@ -379,11 +379,3 @@ if len(time_stamps) > 10:
         file_name="KineGait_analisis_marcha.csv",
         mime="text/csv"
     )
-```text:Archivo de Dependencias:requirements.txt
-streamlit>=1.30.0
-mediapipe==0.10.14
-protobuf>=3.20.3,<4.25.0
-opencv-python-headless>=4.8.0.76
-numpy>=1.24.0,<2.0.0
-pandas>=2.0.0
-plotly>=5.18.0
