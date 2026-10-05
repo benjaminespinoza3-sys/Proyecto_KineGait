@@ -379,7 +379,6 @@ if len(time_stamps) > 10:
         file_name="KineGait_analisis_marcha.csv",
         mime="text/csv"
     )
-```
 ```text:Archivo de Dependencias:requirements.txt
 streamlit>=1.30.0
 mediapipe==0.10.14
